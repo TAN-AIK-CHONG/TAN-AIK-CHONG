@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **TAN-AIK-CHONG/TAN-AIK-CHONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🙋‍♂️ I'm a CS undergrad @ Nanyang Technological University 
+- 👾 I'm currently working on a prediction model using data science and ML
+- 🌱 Trying to learn more about Data Science and AI, especially deep learning
+- 👨‍💻 Languages and skills: C programming, Python, Pandas
