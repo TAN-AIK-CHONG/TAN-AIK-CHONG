@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 👾 I'm currently working on a prediction model using data science and ML
 - 🌱 Trying to learn more about Data Science and AI, especially deep learning
 - 👨‍💻 Languages and skills: C programming, Python, Pandas
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/tanaikchong/)!
