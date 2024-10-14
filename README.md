@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🙋‍♂️ I'm a CS freshman @ Nanyang Technological University 
-- 👾 I'm currently working on a prediction model using data science and ML
-- 🌱 Trying to learn more about Data Science and AI, especially deep learning
-- 👨‍💻 Languages and skills: C programming, Python, Pandas
+- 🙋‍♂️ I'm a CS undergraduate @ Nanyang Technological University 
+- 👨‍💻 Technologies: C programming, Python, Java, HTML, CSS
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanaikchong/)!
