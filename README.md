@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🙋‍♂️ I'm a CS undergraduate @ Nanyang Technological University 
-- 👨‍💻 Technologies: C programming, Python, Java, HTML, CSS
+- 👨‍💻 Technologies: C programming, Python, Java, HTML, CSS, Javascript
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanaikchong/)!
