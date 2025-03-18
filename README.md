@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ❤️‍🔥 I am mainly passionate about software engineering and data analytics
 - 👨‍💻 Programming languages: Python, Java, C, C++
 - 🌐 Web Development: HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS, FastAPI
+- 💾 Databases: SQL, MongoDB
 - 📊 Data Analytics: Pandas, Numpy, Scikit-Learn, SQL, Neo4j, Tensorflow, MongoDB
 - 📌 Check out my personal projects and hackathon submissions in my pinned posts!
 
