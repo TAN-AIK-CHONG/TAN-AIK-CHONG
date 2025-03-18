@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 🙋‍♂️ I'm a CS undergraduate @ Nanyang Technological University 
 - ❤️‍🔥 I am mainly passionate about software engineering and data analytics
 - 👨‍💻 Programming languages: Python, Java, C, C++
-- 🌐 Web Development: HTML5, CSS3, JavaScript, React.js, Tailwind CSS, FastAPI
-- 📊 Data Analytics: Pandas, Numpy, Scikit-Learn, SQL, Neo4j, Tensorflow
+- 🌐 Web Development: HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS, FastAPI
+- 📊 Data Analytics: Pandas, Numpy, Scikit-Learn, SQL, Neo4j, Tensorflow, MongoDB
 - 📌 Check out my personal projects and hackathon submissions in my pinned posts!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanaikchong/)!
