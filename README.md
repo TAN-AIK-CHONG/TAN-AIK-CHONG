@@ -27,7 +27,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tanaikchong/)!
   Contributions:
   - Implemented authentication with Supabase Auth and secure RLS policies for multi-tenant access control  
   - Optimized database performance through query indexing and table normalization  
-  - Wrote Postgres RPC functions to enforce business logic  
+  - Wrote Postgres RPC functions to enforce business logic, enforce atomic operations    
   - Built document upload flows and developed RESTful APIs for CRUD operations
   - Implement stale-while-revalidate data fetching on the frontend to keep UI responsive
 
