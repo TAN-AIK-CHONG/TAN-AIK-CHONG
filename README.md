@@ -29,6 +29,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tanaikchong/)!
   - Optimized database performance through query indexing and table normalization  
   - Wrote Postgres RPC functions to enforce business logic  
   - Built document upload flows and developed RESTful APIs for CRUD operations
+  - Implement stale-while-revalidate data fetching on the frontend to keep UI responsive
 
 - [**HDB Data Visualizer**](https://github.com/Pratz2005/HDB) — Interactive web app for exploring Singapore's HDB data (NTU SWE course)  
   Tech stack: Next.js · FastAPI · Firestore  
@@ -48,11 +49,16 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tanaikchong/)!
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![SWR Badge](https://img.shields.io/badge/SWR-000?logo=swr&logoColor=fff&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # 🚀 Deployment experience
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)
