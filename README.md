@@ -39,7 +39,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tanaikchong/)!
   - Integrate external APIs
   - Process geolocation data
 
-- [**Horse Race Prediction**](https://github.com/Pratz2005/Horse-Race-Prediction) — ML project for predicting horse racing outcomes (NTU introductory AI/ML course)  
+- [**Horse Race Prediction**](https://github.com/TAN-AIK-CHONG/Horse-Race-Prediction) — ML project for predicting horse racing outcomes (NTU introductory AI/ML course)  
   Tech stack: Python · Pandas · Scikit-Learn · Selenium  
   Highlights: web scraping, feature engineering, linear regression, logistic regression 
 
