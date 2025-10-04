@@ -23,7 +23,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tanaikchong/)!
 # 📌 Projects
 - **Multi-tenant SaaS Platform (Private Repo)** — Designed for reconditioned car dealerships in Malaysia  
   Tech stack: Next.js · FastAPI · Supabase  
-  Deployment: Vercel · Docker · Google Cloud Run  
+  Deployment: Self-hosted on VPS using Nginx reverse proxy behind Cloudflare CDN/WAF  
   Contributions:
   - Implemented authentication with Supabase Auth and secure RLS policies for multi-tenant access control  
   - Optimized database performance through query indexing and table normalization  
@@ -45,7 +45,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tanaikchong/)!
   Highlights: web scraping, feature engineering, linear regression, logistic regression 
 
 
-# 🌐 Web dev experience
+# 🌐 Web Dev Experience
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
@@ -60,12 +60,14 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tanaikchong/)!
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# 🚀 Deployment experience
+# ☁️ Hosting & Deployment Experience
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 
-# 🤖 AI experience
+# 🤖 AI Experience
 ![CrewAI Badge](https://img.shields.io/badge/CrewAI-FF5A50?logo=crewai&logoColor=fff&style=for-the-badge)
 ![LangGraph Badge](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=fff&style=for-the-badge)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white&style=for-the-badge)
