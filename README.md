@@ -6,24 +6,21 @@
   "current_job": "AI Engineer (Intern) @ AgileAlgo",
   "education": "CS @ Nanyang Technological University",
   "school_email": "atan160@e.ntu.edu.sg",
-  "personal_email": "aikchong2002@gmail.com"
+  "personal_email": "aikchong2002@gmail.com",
   "fields_of_interest": [
     "Software Engineering",
     "Web Development",
     "Cloud Computing"
   ],
-  "hobbies": [
-    "volleyball",
-    "reading"
-  ],
+  "hobbies": ["volleyball", "reading"]
 }
 ```
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tanaikchong/)!
 
 # 📌 Projects
-- **Multi-tenant SaaS Platform (Private Repo)** — Designed for reconditioned car dealerships in Malaysia  
+- [**Dealership Management System**](https://cartel.my) — Designed for reconditioned car dealerships in Malaysia  
   Tech stack: Next.js · FastAPI · Supabase  
-  Deployment: Self-hosted on VPS using Nginx reverse proxy behind Cloudflare CDN/WAF  
+  Deployment: VPS (Caddy + Docker Compose), Cloudflare CDN/WAF; GCR for payment & smtp microservice  
   Contributions:
   - Implemented authentication with Supabase Auth and secure RLS policies for multi-tenant access control  
   - Optimized database performance through query indexing and table normalization  
@@ -63,7 +60,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/tanaikchong/)!
 # ☁️ Hosting & Deployment Experience
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![Caddy Badge](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=fff&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 
